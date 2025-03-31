@@ -153,6 +153,4 @@ cd HateShield</code></pre>
         </ul>
     </li>
 </ul>
-<p>(Replace <strong>xx%</strong> with actual results after training and testing.)</p>
-
 <hr>
