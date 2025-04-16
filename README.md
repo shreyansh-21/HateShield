@@ -140,16 +140,14 @@ cd HateShield</code></pre>
 <ul>
     <li><strong>LSTM Model</strong>:
         <ul>
-            <li>Precision: <strong>xx%</strong></li>
-            <li>Recall: <strong>xx%</strong></li>
-            <li>F1-score: <strong>xx%</strong></li>
+            <li>Precision: <strong>96%</strong></li>
+            <li>Recall: <strong>99%</strong></li>
+            <li>F1-score: <strong>96%</strong></li>
         </ul>
     </li>
     <li><strong>ResNet Model</strong>:
         <ul>
-            <li>Accuracy: <strong>xx%</strong></li>
-            <li>Precision: <strong>xx%</strong></li>
-            <li>Recall: <strong>xx%</strong></li>
+            <li>Accuracy: <strong>97%</strong></li>
         </ul>
     </li>
 </ul>
